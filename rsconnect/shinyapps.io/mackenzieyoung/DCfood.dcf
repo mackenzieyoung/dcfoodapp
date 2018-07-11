@@ -1,0 +1,12 @@
+name: DCfood
+title: DCfood
+username:
+account: mackenzieyoung
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 377701
+bundleId: 1473858
+url: https://mackenzieyoung.shinyapps.io/DCfood/
+when: 1531240852.95213
+asMultiple: FALSE
+asStatic: FALSE
