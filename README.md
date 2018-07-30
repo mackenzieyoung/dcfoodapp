@@ -1,6 +1,8 @@
 # DC Food App documentation
 
-This App uses data downloaded from: http://opendata.dc.gov/datasets/
+This App was created as part of the final project for the Developing Data Products course in the JHU Coursera Data Science specialization.
+
+Data was downloaded from: http://opendata.dc.gov/datasets/
 
 To use this App, select the food option type you wish to view from the sidebar on the right.
 Click on a dot on the map to view the name of the location.
