@@ -1,5 +1,7 @@
 # DC Food App documentation
 
+To use the App: https://mackenzieyoung.shinyapps.io/DC_food/
+
 This App was created as part of the final project for the Developing Data Products course in the JHU Coursera Data Science specialization.
 
 Data was downloaded from: http://opendata.dc.gov/datasets/
